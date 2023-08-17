@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 121642508
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameview_prefab
+      Dependencies: {}
+    Info_1:
+      Name: startview_prefab
+      Dependencies: {}
